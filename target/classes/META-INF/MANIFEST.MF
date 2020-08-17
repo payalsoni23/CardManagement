@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: CardManagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: payal
+Implementation-Vendor-Id: com.web
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://spring.io/projects/spring-boot/CardManagem
+ ent
+Created-By: Maven Integration for Eclipse
+Main-Class: SpringBootWebApplication
+
